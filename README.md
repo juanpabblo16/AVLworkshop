@@ -47,3 +47,7 @@ tree.insert(50);
 tree.delete(30);
 
 tree.inorder(); // Prints: 10 20 40 50
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
