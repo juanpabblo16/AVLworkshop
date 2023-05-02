@@ -33,6 +33,11 @@ The AVLTree class provides the following methods:
 - `getBalance(Node node)`: Returns the balance factor of the specified node.
 - `height(Node node)`: Returns the height of the specified node.
 
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 ## Example
 
 ```java
@@ -47,7 +52,3 @@ tree.insert(50);
 tree.delete(30);
 
 tree.inorder(); // Prints: 10 20 40 50
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
